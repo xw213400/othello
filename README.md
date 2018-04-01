@@ -1,0 +1,1 @@
+AI module for Othello board game.
